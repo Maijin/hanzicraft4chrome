@@ -1,0 +1,12 @@
+{
+  "name": "HanziJS extension",
+  "description": "HanziJS aims to provide information on Chinese characters in a easy clean format with awesome useful information",
+  "version": "1.0",
+  "author": "Maijin",
+  "permissions": ["contextMenus"],
+  "background": {
+    "persistent": false,
+    "scripts": ["background.js"]
+  },
+  "manifest_version": 2
+}
